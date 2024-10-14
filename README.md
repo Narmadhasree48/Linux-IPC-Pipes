@@ -101,7 +101,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/95c05354-208a-4085-8018-73429905f843)
-![Uploading image.png…]()
+![Screenshot 2024-10-14 093425](https://github.com/user-attachments/assets/4bac696a-854a-4b73-8afa-6be1a2e70cc1)
+
 
 # RESULT:
 The program is executed successfully.
